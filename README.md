@@ -6,4 +6,4 @@ git clone https://github.com/HassanRajput0/Web-to-web-single
 
 cd Web-to-web-single
 
-node 
+node Websingle.js
